@@ -1,0 +1,31 @@
+******************************* Suivi De Modification *******************************
+19/05/2017	N. RAIMUNDO	Refonte de l'indentation des fichiers.
+						Fichiers impactes:
+							index.php
+							actualite.php
+							adherer.php
+							agenda.php
+							aider.php
+							annuaire.php
+							bureau.php
+							coindesmembres.php
+							connexion_bd.inc.php
+							contacts_anciens.php
+							copie_cvlettre.php
+							cours.php
+							cours_an.php
+							cours_meca.php
+							cours_proba.php
+							cvlettre.php
+							evenements.php
+							exam_an.php
+							exam_meca.php
+							exam_proba.php
+							exo.php
+							exo_an.php
+							exo_meca.php
+
+*************************************************************************************
+22/05/2017	L. BEDIDI	Actualisation de l'adresse du siege social de l'asso
+						Fichier impacte :
+							statuts.php

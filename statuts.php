@@ -32,7 +32,7 @@
      	<li>de favoriser les échanges entre les anciens dans le but d'aider à l'insertion professionnelle des jeunes diplômés ;</li>
       	<li>d'être un lien entre les anciens étudiants, la direction de l'université et le monde de l'entreprise.</li><br><br>
       
-      	<h7>  Art. 3. Siège social  <br></h7> Le siège social est fixé à 206 boulevard Raspail 75014 PARIS.<br>
+      	<h7>  Art. 3. Siège social  <br></h7> Le siège social est fixé à 4 place Jussieu 75005 PARIS.<br>
 		Il pourra être transféré en tout autre lieu sur simple décision du Conseil d'Administration. <br><br>
 		 
 		<h7>Art. 4. Durée<br></h7>La durée de l'association est illimitée.  <br><br>
