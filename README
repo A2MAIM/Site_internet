@@ -1,0 +1,10 @@
+**************** A LIRE AVANT TOUTE MODIFICATION ****************
+
+********** Concernant GIT **********
+Ce dépôt git contient tous les fichiers source du site web.
+Le dépôt ne doit en aucun cas contenir les fichier image et les pdf. Ces derniers doivent être uniquement présent sur le serveur du site.
+Le fichier contenant les identifiants de la database ne doit pas être sous git.
+
+********** Concernant le site **********
+Tous les fichiers doivent être codé en UTF-8.
+Veillez respecter l'indentation afin que les fichiers soient compréhensibles.
