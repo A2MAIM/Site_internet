@@ -5,11 +5,7 @@
 		</li>
 		
 		<li>
-			<a>Actualités</a>
-			<ul>
-				<li><a href="actualite.php">Nouveautés</a></li>
-				<li><a href="soirees.php">Soirées</a></li>
-			</ul>
+			<a href="actualite.php">Actualités</a>
 		</li>
 		
 		<li>
@@ -21,7 +17,7 @@
 		</li>
 		
 		<li>
-			<a href="agenda.php">Agenda</a>
+			<a href="photo.php">Coin photos</a>
 		</li>
 		
 		<li>
