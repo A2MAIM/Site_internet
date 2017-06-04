@@ -52,9 +52,8 @@
 			Voici quelques exemples de CV (envoyés pour la recherche de stage)
 			<ul>
 				<li><a href="cvlettre/cv1.pdf" target="_blank">CV 1</a></li>
-				<li><a href="cvlettre/cv2.pdf" target="_blank">CV 2</a></li>
-				<li><a href="cvlettre/CV_exemple.pdf" target="_blank">CV 3</a></li>
-				<li><a href="cvlettre/CV_Nicolas_Dupont_A2MAIM.pdf" target="_blank">CV 4</a></li>
+				<li><a href="cvlettre/CV_exemple.pdf" target="_blank">CV 2</a></li>
+				<li><a href="cvlettre/CV_Nicolas_Dupont_A2MAIM.pdf" target="_blank">CV 3</a></li>
 			</ul>
 			
 			Voici quelques exemples de lettres de motivation envoyées par nos anciens pour la recherche de stage
