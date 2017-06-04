@@ -18,9 +18,6 @@
 		<?php include("menu.php") ?>
 	</div>
 	<div id="main">
-		<?php
-			if (session_is_registered("verified_login")){
-		?>
 		
 		<h6> N'hésitez pas à nous envoyer vos photos et à nous proposer des dates de soirées !</h6>
 
@@ -35,13 +32,6 @@
     		<a href="images/soirees/20120918_2.jpg"><img src="images/soirees/20120918_2_mini.jpg" alt="18 sept 2012" title="Cliquez pour agrandir" /></a>
 		</ul>
 
-
-		<?php
-			} else {
-				echo "Pour accéder à cette page vous devez être authentifié."; 
-			}
-		?>
-		
 	</div>
 
 	<div id="sidebar">
