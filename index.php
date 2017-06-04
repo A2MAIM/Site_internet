@@ -77,7 +77,7 @@
 	
 			<h3>Rejoignez nous !</h3>         
 			<a href="https://www.facebook.com/a2maim/" target="_blank"><img src="images/facebook-baner.jpg" TITLE="Rejoignez-nous sur Facebook !"></a>
-            <a href="https://www.linkedin.com/groups/8385529" target="_blank"><img src="images/linkedin-bane.png" TITLE="Rejoignez-nous sur LinkedIn !"></a>
+            <a href="https://www.linkedin.com/groups/8385529" target="_blank"><img src="images/linkedin-baner.png" TITLE="Rejoignez-nous sur LinkedIn !"></a>
 		</div>
 
 		<div id="sidebar">
