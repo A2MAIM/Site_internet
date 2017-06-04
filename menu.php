@@ -24,15 +24,15 @@
 			<a href="temoignages.php">Témoignages</a>
 		</li>
 		
-		<li>
-			<a>Plus</a>
-			<ul>
-				<li><a href="statuts.php">Statuts</a></li>
-				<li><a href="partenariat.php">Partenariat</a></li>
-			</ul>
-		</li>
+        <li>
+            <a href="statuts.php">Statuts</a>
+        </li>
+
+        <li>
+            <a href="partenariat.php">Partenaires</a>
+        </li>
 		
 		<li>
-			<a href="contact.php">COntact</a>
+			<a href="contact.php">Contact</a>
 		</li>
 	</ul>
