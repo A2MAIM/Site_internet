@@ -33,6 +33,6 @@
 		</li>
 		
 		<li>
-			<a href="aider.php">COntact</a>
+			<a href="contact.php">COntact</a>
 		</li>
 	</ul>

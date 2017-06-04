@@ -85,7 +85,7 @@ if ($action == "Entrer")
 		$HEAD='<meta http-equiv="refresh" content="0;url=coindesmembres.php" />';
     		//$CONTENU=$verified_member;
 		//$CONTENU.= '<br />
-    		//<p class="soft">Si vous avez envie de nous aider, cliquez <a href="aider.php">ici</a>.</p>
+    		//<p class="soft">Si vous avez envie de nous aider, cliquez <a href="contact.php">ici</a>.</p>
     		//<br /><br />
     		//<a class="nav sub" href="quitter.php">Déconnexion</a><br class="hide" />
    		//<br /><br />';
@@ -104,7 +104,7 @@ $CONTENU.='
     <p><input name="action" class="button2" type="submit" value="Entrer" /></p></form>
     <p><h4>Si vous avez oublié votre mot de passe, cliquez <a href="motdepasseperdu.php">ici</a>.</h4></p>
     <p><h4>Si vous n&#146;êtes pas encore membre et vous souhaitez le devenir, cliquez <a href="adherer.php">ici</a>.<h4></p>
-    <p><h4>Si vous avez envie de nous aider, cliquez <a href="aider.php">ici</a>.<h4></p>';
+    <p><h4>Si vous avez envie de nous aider, cliquez <a href="contact.php">ici</a>.<h4></p>';
 
 $t = new Template();
 $t->set_file('cpage','menutemplate.tpl');
