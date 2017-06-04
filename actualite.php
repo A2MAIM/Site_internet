@@ -50,13 +50,13 @@
 			<h3>Nouveautés</h3>
 			<ul>
 			
-				<li><h5>18 mai 2017 : Soirée anciens/nouveaux après la soutenance de mi-stage! </h5></li>
+				<li><h5>18 mai 2017 : Soirée anciens/nouveaux après la soutenance de mi-stage ! </h5></li>
 
-				<li><h5>24 février 2017 : Fêtons la fin des cours avec les anciens! </h5></li>
+				<li><h5>24 février 2017 : Fêtons la fin des cours avec les anciens ! </h5></li>
 			
-				<li><h5>7 février 2017 : Atelier CV animé par les anciens! </h5></li>
+				<li><h5>7 février 2017 : Atelier CV animé par les anciens ! </h5></li>
 			
-				<li><h5>29 septembre 2016 : Le bureau a été renouvelé! </h5></li>
+				<li><h5>29 septembre 2016 : Le bureau a été renouvelé ! </h5></li>
 			</ul>
 
 		</div>
