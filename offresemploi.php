@@ -23,6 +23,7 @@
 		?>
 		Voici les offres d'emploi envoyées par nos membres. Merci beaucoup pour vos contributions.
 		<ul>
+				<li>23/06/2017 : <a href="offreemploi/multiwave_fem_engineer.pdf" target="_blank">Multiwave : Numerical Methods Engineer</a></li>
                 <li><a href="offreemploi/INdAM.pdf" target="_blank">Offre de thèse : "New Mathematical Methods for Future Communication Networks" - Turin Doctoral School of Mathematical Science</a><br/>
 Date limite de candidature : 20 mai 2017</li>
 				<li><a href="offreemploi/Senior_Research_Scientist_on_Machine_Learning-Statistical_Learning.pdf" target="_blank">HUAWEI : Senior Research Scientist on Machine Learning</a></li>
@@ -35,7 +36,8 @@ Date limite de candidature : 20 mai 2017</li>
 		
 		Vous trouverez de nombreuses offres sur les sites suivants :
 		<ul>
-		<li><a href="http://www.enseignementsup-recherche.gouv.fr/pid24790/concours-et-recrutements-des-ingenieurs-et-personnels-techniques-de-recherche-et-de-formation.html" target="_blank"> Concours et recrutement des ingénieurs et personnels techniques de recherche et de formation</a></li>
+		<li>Emplois, stages et thèses en Europe : <a href="http://jobs.eu-maths-in.eu" target="_blank">European Service Network of Mathematics for Industry and Innovation</a></li>
+		<li><a href="http://www.enseignementsup-recherche.gouv.fr/pid24790/concours-et-recrutements-des-ingenieurs-et-personnels-techniques-de-recherche-et-de-formation.html" target="_blank">Concours et recrutement des ingénieurs et personnels techniques de recherche et de formation</a></li>
 		<ul>
 		
 		<?php
