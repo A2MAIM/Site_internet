@@ -1,5 +1,5 @@
 <?php session_start(); ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -49,6 +49,8 @@
 		<div id="main">
 			<h3>Nouveautés</h3>
 			<ul>
+			
+				<li><h5>27 juin 2017 : Renouvellement du bureau ! </h5></li>
 			
 				<li><h5>18 mai 2017 : Soirée anciens/nouveaux après la soutenance de mi-stage ! </h5></li>
 
