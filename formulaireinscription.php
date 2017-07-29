@@ -24,14 +24,14 @@
               Vous pouvez l'utiliser gratuitement à des fins NON-COMMERCIALES seulement, et le modifier à votre convenance.
               Trouvé sur http://www.toulouse-renaissance.net/c_outils/ -->
               <form method="post" action="formulaire.php3" name="avis">
-                  <h1>Formulaire d'adh&eacute;sion</h1>
+                  <h1>Formulaire d'adhésion</h1>
                   <br />
                   Les champs suivis d'une <span class="red">*</span> sont obligatoires.
                   <!--  INFOS PERSONNELLES -->
                   <br />
                   <h2>Infos personnelles :</h2>
                   <p>Nom<span class="red">*</span> :<br /><input type="text" name="nom" size="20" /></p>
-                  <p>Pr&eacute;nom<span class="red">*</span> :<br /><input type="text" name="prenom" size="20" /></p>
+                  <p>Prénom<span class="red">*</span> :<br /><input type="text" name="prenom" size="20" /></p>
                   <p>E-mail<span class="red">*</span> : <br /><input type="text" name="mail" size="20" /></p>
                   <p>J'accepte d'être contacté(e) par les membres via cet e-mail :  <input name="autorisationmail" type="checkbox" /></p>
                   <br />
@@ -39,7 +39,7 @@
                   <!-- INFOS PROFESSIONNELLES -->
                   <h2>Infos professionnelles :</h2>
                   <p>Région : <br /><input name="region" type="text" size="30" /></p>
-          				<p>Soci&eacute;t&eacute; : <br /><input name="societeactuelle" type="text" size="30" /></p>
+          				<p>Société : <br /><input name="societeactuelle" type="text" size="30" /></p>
           				<p>Situation actuelle<span class="red">*</span> : <br /><input name="posteactuel" type="text" size="30" /></p>
           				<p>Salaire : <br />
           				<input name="salaire" type="radio" value="a" />inférieur à 20000 EUR<br />
@@ -54,7 +54,7 @@
                   <!-- INFOS SUR VOTRE FORMATION -->
                   <h2>Infos sur votre formation</h2>
                   <br />
-                  <p>Ann&eacute;e d'obtention du master<span class="red">*</span> :<br />
+                  <p>Année d'obtention du master<span class="red">*</span> :<br />
                   <select name="annee" size="1">
                     <option value="0" selected="selected" >- Choisir -</option>
                     <option value="1990">1990</option>
@@ -85,11 +85,12 @@
                     <option value="2015">2015</option>
                     <option value="2016">2016</option>
                     <option value="2017">2017</option>
+                    <option value="2017">2018	</option>
                   </select>
                   </p>
-                  <p>Sp&eacute;cialit&eacute;<span class="red">*</span> : <br /><input type="radio" value="Meca" name="spe" />M&eacute;canique <input type="radio" name="spe" value="Proba" />Proba-Stats</p>
+                  <p>Spécialité<span class="red">*</span> : <br /><input type="radio" value="Meca" name="spe" />Mécanique <input type="radio" name="spe" value="Proba" />Proba-Stats</p>
                   <p>J'ai gardé des contacts avec les anciens de ma promo : <input name="reseau" type="checkbox" /></p>
-                  <p>Soci&eacute;t&eacute; du stage : <br /><input name="societestage" type="text" size="30" /></p>
+                  <p>Société du stage : <br /><input name="societestage" type="text" size="30" /></p>
                   <p>Description du stage : <br /><textarea name="descriptionstage"  cols="30" rows="5" ></textarea></p>
                   <p>Et avant le master ? <br /><textarea name="descriptionprovenance" cols="30" rows="5" ></textarea></p>
                   <p>J'autorise la diffusion de ces infos : <input name="autorisationformation" type="checkbox" /></p>
@@ -98,10 +99,10 @@
                   <!-- Acces coins des membres -->
                   <h2>Acc&egrave;s au coins des membres :</h2> 
                   <p> Login<span class="red">*</span> :<br /><input type="text" name="login" size="30" /></p>
-                  <p> Mot de passe (attention il sera envoy&eacute; en clair)<span class="red">*</span> : <br /><input name="motdepasse" type="password" size="30" /></p>
+                  <p> Mot de passe (attention il sera envoyé en clair)<span class="red">*</span> : <br /><input name="motdepasse" type="password" size="30" /></p>
                   <p>Confirmation du mot de passe<span class="red">*</span> : <br /><input name="confirmotdepasse" type="password" size="30" /></p>
                   <p>Question pense-b&ecirc;te<span class="red">*</span> : <br /><input name="questionpensebete" type="text" size="30" /></p>
-                  <p>R&eacute;ponse pense-b&ecirc;te<span class="red">*</span> : <br /><input name="reponsepensebete" type="text" size="30" /></p>
+                  <p>Réponse pense-b&ecirc;te<span class="red">*</span> : <br /><input name="reponsepensebete" type="text" size="30" /></p>
                   <br />
                   <br />
                   <p>

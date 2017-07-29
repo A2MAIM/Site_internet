@@ -60,7 +60,7 @@ if (isset($_POST['login']))
 	$login_ok = verificationlogin($login);
 	if ($login_ok==0) 
   {
-		$message="Le login est erron&eacute;. Merci de recommencer.";
+		$message="Le login est erroné. Merci de recommencer.";
 	}
 }
 
@@ -84,11 +84,11 @@ if (isset($_POST['reponse']))
 		$MailHeader = "From: a2maim.paris6@gmail.com"; //adresse email qui va figurer dans le champ "expéditeur" du email
 
 		mail($mail, $MailSubject, $mes, $MailHeader);
-		$message = "Votre mot de passe vous a &eacute;t&eacute; envoy&eacute; par mail.";
+		$message = "Votre mot de passe vous a été envoyé par mail.";
 	}
 	else 
   {
-		$message = "R&eacute;ponse incorrecte !";
+		$message = "Réponse incorrecte !";
 	}
 }
 
@@ -142,7 +142,7 @@ else
           				<td><input name='question' type='text' value='$pensebete' disabled /></td>
           			</tr>
           			<tr>
-          				<td>Votre r&eacute;ponse : </td>
+          				<td>Votre réponse : </td>
           				<td><input name='reponse' type='text' /></td>
           			</tr>
           			<tr>

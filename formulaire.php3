@@ -48,21 +48,21 @@ $MailBody="";
 
 //INFOS PERSO
 if ($nom == ""){ //nom du champ1
-	echo("Vous n'avez pas donn&eacute; votre nom.<br>"); //message qui s'affiche si le visiteur n'a pas rempli ce champ
+	echo("Vous n'avez pas donné votre nom.<br>"); //message qui s'affiche si le visiteur n'a pas rempli ce champ
 	$Envoi = 0; //si le champ1 n'a pas été rempli, la variable envoi prend la valeur de 0
 } else {
 	$MailBody .= "Nom : $nom\n"; //si le champ1 contient de l'information, elle est stockée dans la variable MailBody
 }
 
 if ($prenom == ""){
-	echo("Vous n'avez pas donn&eacute; votre pr&eacute;nom.<br>");
+	echo("Vous n'avez pas donné votre prénom.<br>");
 	$Envoi = 0;
 } else {
 	$MailBody .= "Prenom : $prenom\n";
 }
 
 if ($mail == ""){
-	echo("Vous n'avez pas donn&eacute; votre e-mail<br>");
+	echo("Vous n'avez pas donné votre e-mail<br>");
 	$Envoi = 0;
 } else {
 	if (check_mail($mail)) {
@@ -76,7 +76,7 @@ if ($mail == ""){
 
 //INFOS PROF
 if ($posteactuel == ""){
-	echo("Vous n'avez pas pr&eacute;cis&eacute votre situation actuelle.<br>");
+	echo("Vous n'avez pas précis&eacute votre situation actuelle.<br>");
 	$Envoi = 0;
 } else {
 	$MailBody .= "Poste actuel : $posteactuel\n";
@@ -97,13 +97,13 @@ $MailBody .= "Autorisation diffusion : $autorisationpro\n";
 
 //FORMATION
 if ($annee == "0"){
-	echo("Vous n'avez pas pr&eacute;cis&eacute; l'ann&eacute;e d'obtention de votre DESS<br>");
+	echo("Vous n'avez pas précisé l'année d'obtention de votre DESS<br>");
 	$Envoi = 0;
 } else {
 	$MailBody .= "Annee diplome : $annee\n";
 }
 if ($spe == ""){
-	echo("Vous n'avez pas pr&eacute;cis&eacute; votre sp&eacute;cialit&eacute;.<br>");
+	echo("Vous n'avez pas précisé votre spécialité.<br>");
 	$Envoi = 0;
 } else {
 	$MailBody .= "Specialite : $spe\n";
@@ -135,14 +135,14 @@ if($motdepasse == "") {
 }	
 
 if ($questionpensebete == ""){
-	echo("Vous  n'avez pas d&eacute;fini de question en cas d'oubli du mot de passe.<br>");
+	echo("Vous  n'avez pas défini de question en cas d'oubli du mot de passe.<br>");
 	$Envoi = 0;
 } else {
 	$MailBody .= "Question bete : $questionpensebete\n";
 }
 	
 if ($reponsepensebete == ""){
-	echo("Vous n'avez pas r&eacute;pondu &agrave; la question pense-b&ecirc;te.<br>");
+	echo("Vous n'avez pas répondu &agrave; la question pense-b&ecirc;te.<br>");
 	$Envoi = 0;
 } else {
 	$MailBody .= "reponse : $reponsepensebete\n";
@@ -156,7 +156,7 @@ if ($Envoi == 0) {
 if ($Envoi == 1) { //vérification que la variable envoi est bien à 1
 	mail($MailTo, $MailSubject, $MailBody, $MailHeader); //envoi du message
 	mail($MailCc, $MailSubject, $MailBody, $MailHeader); //envoi du communiqué (enlever // pour le rendre opérationnel
-	echo("<p>Votre inscription a bien &eacute;t&eacute; prise en compte.<br>.<br>");
+	echo("<p>Votre inscription a bien été prise en compte.<br>.<br>");
 	echo("<p>&nbsp;</p><p>&nbsp;</p><p align=\"center\"><a href=\"formulaireinscription.php\"><strong>Retour</strong></a></p>"); //affichage d'un message de confirmation.
 
 	// Ajoute une entrée dans la table identification	
