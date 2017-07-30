@@ -9,7 +9,7 @@
 		</li>
 		
 		<li>
-			<a href="bureau.php">Bureau - CA</a>
+			<a href="bureau.php">Conseil d'administation</a>
 		</li>
 			
 		<li>
