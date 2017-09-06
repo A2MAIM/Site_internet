@@ -8,7 +8,7 @@
 
 		<li><a href="coindesmembres.php">Coin des membres</a></li>
 
-		//<li><a href="photos.php">Coin photos</a></li>
+		<?php //<li><a href="photos.php">Coin photos</a></li> ?>
 
 		<li><a href="temoignages.php">Témoignages</a></li>
 

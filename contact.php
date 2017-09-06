@@ -47,7 +47,7 @@
 		</div>
      
     	<div id="main">
-    		/*
+    		<?php /*
         	<h3>Envie de nous aider à faire vivre l'association ?</h3>
 
             <h6>Bureau</h6>
@@ -61,7 +61,7 @@
 
             <h6>Web</h6>
             <p>La page web de l'association est en cours de création. Si vous avez des idées, du temps ou des compétences pour nous aider, n'hésitez pas à vous faire connaître.</p>
-			*/
+			*/ ?>
             <h6>Toutes vos remarques sont les bienvenues, donc n'hésitez pas à nous écrire !</h6> 
             <a href="mailto:a2maim.paris6@gmail.com">a2maim.paris6@gmail.com</a>
     	</div>
