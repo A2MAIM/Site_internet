@@ -47,16 +47,25 @@
 		</div>
      
     	<div id="main">
+    		/*
         	<h3>Envie de nous aider à faire vivre l'association ?</h3>
+
             <h6>Bureau</h6>
-            <p>Lors du pot qui a lieu fin février, l'assemblée générale de l'association a lieu. Si vous souhaitez faire partie du prochain 			bureau, faites vous connaître !</p>
-            <h6>Initiatives</h6><p>Si vous avez envie de créer ou d'animer un groupe de discussion sur un thème précis, d'organiser des rencontres 			entre les différentes personnes ou  des ateliers pour aider à la recherche d'emploi, surtout n'hésitez pas : l'association a été créée 			pour donner vie à toutes ces idées.</p>
-            <h6>Pot</h6><p>Pour l'instant, nous organisons un pot par an pour rassembler les anciens et les nouveaux du Master. Nous sommes 				toujours preneurs d'un coup de main pour l'organisation de celui-ci.</p>
-            <h6>Web</h6><p>La page web de l'association est en cours de création. Si vous avez des idées, du temps 			ou des compétences pour nous aider, n'hésitez pas à vous faire connaître.</p>
+            <p>Lors du pot qui a lieu fin février, l'assemblée générale de l'association a lieu. Si vous souhaitez faire partie du prochain bureau, faites vous connaître !</p>
+
+            <h6>Initiatives</h6>
+            <p>Si vous avez envie de créer ou d'animer un groupe de discussion sur un thème précis, d'organiser des rencontres entre les différentes personnes ou  des ateliers pour aider à la recherche d'emploi, surtout n'hésitez pas : l'association a été créée pour donner vie à toutes ces idées.</p>
+
+            <h6>Pot</h6>
+            <p>Pour l'instant, nous organisons un pot par an pour rassembler les anciens et les nouveaux du Master. Nous sommes toujours preneurs d'un coup de main pour l'organisation de celui-ci.</p>
+
+            <h6>Web</h6>
+            <p>La page web de l'association est en cours de création. Si vous avez des idées, du temps ou des compétences pour nous aider, n'hésitez pas à vous faire connaître.</p>
+			*/
             <h6>Toutes vos remarques sont les bienvenues, donc n'hésitez pas à nous écrire !</h6> 
             <a href="mailto:a2maim.paris6@gmail.com">a2maim.paris6@gmail.com</a>
     	</div>
-    		
+
     	<div id="sidebar">
 			<?php
 				if (session_is_registered("verified_login")){
@@ -68,7 +77,8 @@
 			<?php include("links.php") ?>
 		</div>
 	</div>
+
 	<?php include("footer.php") ?>
 </body>
 </html>
-  
+

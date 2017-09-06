@@ -7,7 +7,7 @@
 	<meta name="keywords" content="your,keywords,goes,here" />
 	<meta name="author" content="LECOEUR Eve"/>
 	<link rel="stylesheet" type="text/css" href="a2maim.css" media="screen,projection" title="A2MAIM : Association des Anciens du MAster d'Ingénierie Mathématique" />
-	<title>Association A2MAIM : Parrainage de la promotion 2012</title>
+	<title>Association A2MAIM : Coin photos/title>
 </head>
 
 <body>
