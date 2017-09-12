@@ -53,15 +53,14 @@
 
 			<marquee> <h2 class=color_blue> <!--Rencontre anciens/nouveaux le 24 mai ! Pensez à confirmer votre présence. --> </h2></marquee>
 
-			<h3>Présentation de l'association A2MAIM</h3>
+			<h3>Bienvenue sur le site d'A2MAIM</h3>
 
 			<p>Chers visiteurs,</p>
 			<p>Depuis sa création en 2006, A2MAIM, l'Association des Anciens du MAster d'Ingénierie Mathématique de l’Université Pierre et Marie Curie, a pour but de faciliter l’insertion professionnelle des jeunes diplômés et de développer un réseau visant à établir un lien entre les différentes promotions.</p>
-			<p>Le master, ancien DESS de mathématiques appliquées, s’articule autour de deux filières : mécanique et probabilités/statistiques.<br/>
-			En complément, il propose une formation solide en analyse numérique, calcul scientifique et informatique à ses étudiants, et leur offre ainsi des connaissances qui s’appliquent à des domaines aussi variés que  l'énergie, les transports, les télécommunications, la finance, etc.<br/>
+			<p>Le master, ancien DESS de mathématiques appliquées, s’articule autour de deux filières : mécanique et probabilités/statistiques. En complément, il propose une formation solide en analyse numérique, calcul scientifique et informatique à ses étudiants, et leur offre ainsi des connaissances qui s’appliquent à des domaines aussi variés que l'énergie, les transports, les télécommunications, la finance, etc.<br/>
 			En outre, les étudiants en probabilités/statistiques ont également la possibilité d’obtenir une certification en Big Data.</p>
-			<p>Tout au long de l’année, l’association organise des rencontres entre ses membres et les étudiants afin de favoriser les échanges. Des simulations d’entretiens par des Anciens de l’association sont également mises en place, ainsi qu’un CV book destiné à être diffusé dans diverses entreprises.</p>
-			<p>En naviguant sur ce site, vous pourrez faire connaissance avec le bureau de l’association, vous tenir au courant des évènements organisés ainsi que consulter des témoignages d’anciens étudiants du master.</p>
+			<p>Tout au long de l’année, l’association organise des rencontres entre ses membres et les étudiants afin de favoriser les échanges. Des simulations d’entretiens menées par des Anciens de l’association sont également mises en place, ainsi qu’un CV book destiné à être diffusé dans diverses entreprises.</p>
+			<p>En naviguant sur ce site, vous pourrez faire connaissance avec le bureau de l’association, vous tenir au courant des évènements organisés, ainsi que consulter des témoignages d’anciens étudiants du master.</p>
 			<p>Toute l'équipe d'A2MAIM vous souhaite une bonne visite !</p>
 
 
