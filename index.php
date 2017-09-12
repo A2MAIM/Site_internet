@@ -64,16 +64,7 @@
 			<p>Toute l'équipe d'A2MAIM vous souhaite une bonne visite !</p>
 
 
-			<h3>Pourquoi une association ?</h3>
-
-			<p>A2MAIM est l'association des anciens élèves du <b>Master Mathématiques & Applications</b>, spécialité <b>Ingénierie Mathématique</b> de l'Université Pierre et Marie Curie (Paris VI). L'asssociation s'adresse en particulier aux élèves du parcours <b>Mathématiques pour l'Entreprise</b> (ancien <b>DESS d'Analyse Numérique</b>, formation existant depuis 1977). Elle organise les échanges entre les anciens élèves et souhaite aider les nouveaux étudiants à s'insérer professionnellement. Depuis 2006, A2MAIM relaie des offres de stage/d'emploi et organise chaque année une rencontre d'échange entre les anciens et les nouveaux étudiants.</p>
-
-			<h3>Pour qui ?</h3>
-			<p>Tous les détenteurs du diplôme ainsi que pour les actuels étudiants.</p>
-
-			<p></p>
-
-			<h3>Rejoignez nous !</h3>         
+			<h3>Restons connectés !</h3>         
 			<a href="https://www.facebook.com/a2maim/" target="_blank"><img src="images/facebook-baner.jpg" TITLE="Rejoignez-nous sur Facebook !"></a>
             <a href="https://www.linkedin.com/groups/8385529" target="_blank"><img src="images/linkedin-baner.png" TITLE="Rejoignez-nous sur LinkedIn !"></a>
 		</div>

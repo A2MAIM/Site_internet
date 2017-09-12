@@ -46,21 +46,25 @@
 		<div id="main">
 			<?php include("menu.php") ?>
 		</div>
+
 		<div id="main">
 			<h3>Nouveautés</h3>
+
 			<ul>
-			
-				<li><h5>27 juin 2017 : Renouvellement du bureau ! </h5></li>
-			
-				<li><h5>18 mai 2017 : Soirée anciens/nouveaux après la soutenance de mi-stage ! </h5></li>
+				<li><h5>28 septembre 2017 : Atelier CV animé par les anciens à 18h en salle informatique du LJLL !</h5></li>
 
-				<li><h5>24 février 2017 : Fêtons la fin des cours avec les anciens ! </h5></li>
-			
-				<li><h5>7 février 2017 : Atelier CV animé par les anciens ! </h5></li>
-			
-				<li><h5>29 septembre 2016 : Le bureau a été renouvelé ! </h5></li>
+				<li><h5>13 septembre 2017 : Rencontre des anciens avec la promotion 2018 !</h5></li>
+
+				<li><h5>27 juin 2017 : Renouvellement du bureau !</h5></li>
+
+				<li><h5>18 mai 2017 : Soirée anciens/nouveaux après la soutenance de mi-stage !</h5></li>
+
+				<li><h5>24 février 2017 : Fêtons la fin des cours avec les anciens !</h5></li>
+
+				<li><h5>7 février 2017 : Atelier CV animé par les anciens !</h5></li>
+
+				<li><h5>29 septembre 2016 : Le bureau a été renouvelé !</h5></li>
 			</ul>
-
 		</div>
 
 		<div id="sidebar">
@@ -71,6 +75,7 @@
 					include("register.php");
 				}
 			?>
+
 			<?php include("links.php") ?>
 		</div>
 	</div>
@@ -78,3 +83,4 @@
 	<?php include("footer.php") ?>
 </body>
 </html>
+

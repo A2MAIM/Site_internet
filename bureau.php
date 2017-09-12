@@ -55,7 +55,7 @@
 			<pp>Idil a obtenu son diplôme en 2016 après avoir suivi le parcours Mécanique et a effectué son stage à l'<a href="http://www.irt-systemx.fr/">Institut de Recherche Technologique SystemX</a> sur le sujet "Développement et implémentation de critères d’optimisation de forme en isogéométrie, application à la vibroacoustique des structures minces".</pp><h5></h5>
 
 			<h5><a href="https://fr.linkedin.com/in/lilia-bedidi">Lilia BÉDIDI</a> - Secrétaire</h5>
-			<pp>Lilia a obtenu son diplôme en 2016 après avoir suivi le parcours Mécanique et a effectué son stage à <a href="https://www.edf.fr/">EDF R&D</a> sur la modélisation de la variance de température dans le code de thermique SYRTHES.</pp><h5></h5>
+			<pp>Lilia a obtenu son diplôme en 2016 après avoir suivi le parcours Mécanique et a effectué son stage à <a href="https://www.edf.fr/">EDF R&D</a> sur le sujet "Modélisation de la variance de température dans le code de thermique SYRTHES".</pp><h5></h5>
 
 			<h5><a href="https://fr.linkedin.com/in/katia-ait-ameur-226100110">Katia AÏT AMEUR</a> - Responsable trésorerie et évènementiel </h5>
 			<pp>Katia a obtenu son diplôme en 2016 après avoir suivi le parcours Mécanique et a effectué son stage au <a href="http://www.cea.fr/">Commissariat à l’énergie atomique et aux énergies alternatives (CEA)</a> et au <a href="https://www.math.univ-paris13.fr/laga/index.php/fr/">Laboratoire Analyse, Géométrie et Applications (LAGA)</a> (Université Paris 13) sur le sujet "Implémentation de conditions de Robin pour le problème de Stokes dans le cadre de méthodes de décomposition de domaine de Schwarz : application au code TRUST". Elle est actuellement en études doctorales au CEA et au LJLL.</pp><h5></h5>			

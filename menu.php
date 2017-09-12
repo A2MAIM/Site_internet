@@ -2,9 +2,9 @@
 	<ul id="navitab">
 		<li><a href="index.php">Accueil</a></li>
 
-		<li><a href="actualite.php">Actualités</a></li>
+		<li><a href="actualites.php">Actualités</a></li>
 
-		<li><a href="bureau.php">Conseil d'administation</a></li>
+		<li><a href="bureau.php">Conseil d'administration</a></li>
 
 		<li><a href="coindesmembres.php">Coin des membres</a></li>
 
