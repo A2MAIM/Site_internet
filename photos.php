@@ -24,12 +24,12 @@
 		<ul>
 		
 			<li><h5> Soirée anciens/nouveaux le 18 mai 2017 après la soutenance de mi-stage : </h5></li>
-    		<a href="images/soirees/20170518_1.jpg"><img src="images/soirees/20170518_1_mini.jpg" alt="18 mai 2017" title="Cliquez pour agrandir" /></a>
-    		<a href="images/soirees/20170518_1.jpg"><img src="images/soirees/20170518_2_mini.jpg" alt="18 mai 2017" title="Cliquez pour agrandir" /></a>
+    		<a href="images/photos/20170518_1.jpg"><img src="images/photos/20170518_1_mini.jpg" alt="18 mai 2017" title="Cliquez pour agrandir" /></a>
+    		<a href="images/photos/20170518_1.jpg"><img src="images/photos/20170518_2_mini.jpg" alt="18 mai 2017" title="Cliquez pour agrandir" /></a>
 			<li><h5> Deuxième soirée parrains/filleuls le 30 novembre 2012. Vos photos sont les bienvenues !</h5></li>
     		<li><h5> Première soirée le 18 septembre 2012 pour la rencontre parrains/filleuls </h5></li>
-    		<a href="images/soirees/20120918_1.jpg"><img src="images/soirees/20120918_1_mini.jpg" alt="18 sept 2012" title="Cliquez pour agrandir" /></a>
-    		<a href="images/soirees/20120918_2.jpg"><img src="images/soirees/20120918_2_mini.jpg" alt="18 sept 2012" title="Cliquez pour agrandir" /></a>
+    		<a href="images/photos/20120918_1.jpg"><img src="images/photos/20120918_1_mini.jpg" alt="18 sept 2012" title="Cliquez pour agrandir" /></a>
+    		<a href="images/photos/20120918_2.jpg"><img src="images/photos/20120918_2_mini.jpg" alt="18 sept 2012" title="Cliquez pour agrandir" /></a>
 		</ul>
 
 	</div>

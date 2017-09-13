@@ -23,15 +23,15 @@
 		?>
 		Voici les offres d'emploi envoyées par nos membres. Merci beaucoup pour vos contributions.
 		<ul>
-				<li>23/06/2017 : <a href="offreemploi/multiwave_fem_engineer.pdf" target="_blank">Multiwave : Numerical Methods Engineer</a></li>
-                <li><a href="offreemploi/INdAM.pdf" target="_blank">Offre de thèse : "New Mathematical Methods for Future Communication Networks" - Turin Doctoral School of Mathematical Science</a><br/>
+				<li>23/06/2017 : <a href="offres/emplois/multiwave_fem_engineer.pdf" target="_blank">Multiwave : Numerical Methods Engineer</a></li>
+                <li><a href="offres/theses/INdAM.pdf" target="_blank">Offre de thèse : "New Mathematical Methods for Future Communication Networks" - Turin Doctoral School of Mathematical Science</a><br/>
 Date limite de candidature : 20 mai 2017</li>
-				<li><a href="offreemploi/Senior_Research_Scientist_on_Machine_Learning-Statistical_Learning.pdf" target="_blank">HUAWEI : Senior Research Scientist on Machine Learning</a></li>
-				<li><a href="offreemploi/Senior_Research_Scientist_on_Applied_Machine_Learning-Statistical_Learning.pdf" target="_blank">HUAWEI : Senior Research Scientist on Applied Machine Learning</a></li>
-				<li><a href="offreemploi/Research_Scientist_on_Machine_Learning-Operations_Research.pdf" target="_blank">HUAWEI : Research Scientist on Machine Learning (Operations Research)</a></li>
-				<li><a href="offreemploi/AltairFlux.pdf" target="_blank">Altair : Développeur calcul numérique</a></li>
-				<li><a href="offreemploi/FR_MACS_Client Solution development_Quant Research_Quant Analyst.pdf" target="_blank">AXA : Analyste quantitatif</a></li>
-				<li><a href="offreemploi/dcns_mailing02_Jobdating Cherbourg.pdf" target="_blank">DCNS : 17 et 18 mars 2017, CASTING</a></li>
+				<li><a href="offres/emplois/Senior_Research_Scientist_on_Machine_Learning-Statistical_Learning.pdf" target="_blank">HUAWEI : Senior Research Scientist on Machine Learning</a></li>
+				<li><a href="offres/emplois/Senior_Research_Scientist_on_Applied_Machine_Learning-Statistical_Learning.pdf" target="_blank">HUAWEI : Senior Research Scientist on Applied Machine Learning</a></li>
+				<li><a href="offres/emplois/Research_Scientist_on_Machine_Learning-Operations_Research.pdf" target="_blank">HUAWEI : Research Scientist on Machine Learning (Operations Research)</a></li>
+				<li><a href="offres/emplois/AltairFlux.pdf" target="_blank">Altair : Développeur calcul numérique</a></li>
+				<li><a href="offres/emplois/FR_MACS_Client Solution development_Quant Research_Quant Analyst.pdf" target="_blank">AXA : Analyste quantitatif</a></li>
+				<li><a href="offres/emplois/dcns_mailing02_Jobdating Cherbourg.pdf" target="_blank">DCNS : 17 et 18 mars 2017, CASTING</a></li>
 		</ul>
 		
 		Vous trouverez de nombreuses offres sur les sites suivants :

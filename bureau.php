@@ -1,4 +1,4 @@
-<?php session_start();?>
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
@@ -65,7 +65,6 @@
 
 			<h5><a href="https://fr.linkedin.com/in/gryshka-belhassen">Gryshka BELHASSEN</a> - Webmaster</h5> 
 			<pp>Gryshka a obtenu son diplôme en 2016 après avoir suivi le parcours Probabilités - Statistiques et a effectué son stage chez <a href="http://www.saint-gobain-recherche.fr/">Saint-Gobain Recherche</a> sur le sujet "Apprentissage automatique d’un processus industriel".</pp><h5></h5>
-
 		</div>
 
 		<div id="sidebar">
@@ -84,4 +83,3 @@
 	<?php include("footer.php") ?>
 </body>
 </html>
-

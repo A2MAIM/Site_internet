@@ -13,7 +13,6 @@
 	<title>Association A2MAIM</title>
 
 	<!-- <script type="text/javascript">
-
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-20314521-2']);
 		_gaq.push(['_trackPageview']);
@@ -23,10 +22,9 @@
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
-
 	</script> -->
-	<script type="text/javascript">
 
+	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-35382676-1']);
 		_gaq.push(['_trackPageview']);
@@ -36,7 +34,6 @@
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
-
 	</script>
 
 </head>
@@ -50,7 +47,6 @@
 		</div>
 
 		<div id="main">
-
 			<marquee> <h2 class=color_blue> <!--Rencontre anciens/nouveaux le 24 mai ! Pensez à confirmer votre présence. --> </h2></marquee>
 
 			<h3>Bienvenue sur le site d'A2MAIM</h3>
@@ -65,8 +61,8 @@
 
 
 			<h3>Restons connectés !</h3>         
-			<a href="https://www.facebook.com/a2maim/" target="_blank"><img src="images/facebook-baner.jpg" TITLE="Rejoignez-nous sur Facebook !"></a>
-            <a href="https://www.linkedin.com/groups/8385529" target="_blank"><img src="images/linkedin-baner.png" TITLE="Rejoignez-nous sur LinkedIn !"></a>
+			<a href="https://www.facebook.com/a2maim/" target="_blank"><img src="images/logos/facebook-baner.jpg" TITLE="Rejoignez-nous sur Facebook !"></a>
+            <a href="https://www.linkedin.com/groups/8385529" target="_blank"><img src="images/logos/linkedin-baner.png" TITLE="Rejoignez-nous sur LinkedIn !"></a>
 		</div>
 
 		<div id="sidebar">
@@ -85,4 +81,3 @@
 	<?php include("footer.php") ?>
 </body>
 </html>
-
