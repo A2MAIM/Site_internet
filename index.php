@@ -60,7 +60,7 @@
 			<p>Toute l'équipe d'A2MAIM vous souhaite une bonne visite !</p>
 
 
-			<h3>Restons connectés !</h3>         
+			<h3>Restons connectés !</h3>
 			<a href="https://www.facebook.com/a2maim/" target="_blank"><img src="images/logos/facebook-baner.jpg" TITLE="Rejoignez-nous sur Facebook !"></a>
             <a href="https://www.linkedin.com/groups/8385529" target="_blank"><img src="images/logos/linkedin-baner.png" TITLE="Rejoignez-nous sur LinkedIn !"></a>
 		</div>

@@ -6,7 +6,7 @@ include('connexion_bd.inc.php');
 
 function verificationlogin($login)
 {
-	//Création de la requete SQL
+	//CrÃ©ation de la requete SQL
 	$login_sql=mysql_real_escape_string($login);
 	$sql = "SELECT membreid from identification WHERE (login='$login_sql')";
 	
@@ -26,7 +26,7 @@ function verificationlogin($login)
 
 function verificationreponse($membreid,$reponse)
 {
-	//Création de la requete SQL
+	//CrÃ©ation de la requete SQL
 	$reponse_sql=mysql_real_escape_string($reponse);
 	$sql = "SELECT membreid from identification WHERE (membreid=$membreid) AND (reponse='$reponse_sql')";
 	//echo $sql;
@@ -60,7 +60,7 @@ if (isset($_POST['login']))
 	$login_ok = verificationlogin($login);
 	if ($login_ok==0) 
   {
-		$message="Le login est erroné. Merci de recommencer.";
+		$message="Le login est erronÃ©. Merci de recommencer.";
 	}
 }
 
@@ -81,14 +81,14 @@ if (isset($_POST['reponse']))
 		Bonne navigation !";
 
 		$MailSubject =  "Votre mot de passe pour le site A2MAIN"; //texte qui va figurer dans le champ "sujet" du email
-		$MailHeader = "From: a2maim.paris6@gmail.com"; //adresse email qui va figurer dans le champ "expéditeur" du email
+		$MailHeader = "From: a2maim.paris6@gmail.com"; //adresse email qui va figurer dans le champ "expÃ©diteur" du email
 
 		mail($mail, $MailSubject, $mes, $MailHeader);
-		$message = "Votre mot de passe vous a été envoyé par mail.";
+		$message = "Votre mot de passe vous a Ã©tÃ© envoyÃ© par mail.";
 	}
 	else 
   {
-		$message = "Réponse incorrecte !";
+		$message = "RÃ©ponse incorrecte !";
 	}
 }
 
@@ -142,7 +142,7 @@ else
           				<td><input name='question' type='text' value='$pensebete' disabled /></td>
           			</tr>
           			<tr>
-          				<td>Votre réponse : </td>
+          				<td>Votre rÃ©ponse : </td>
           				<td><input name='reponse' type='text' /></td>
           			</tr>
           			<tr>

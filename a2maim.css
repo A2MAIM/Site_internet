@@ -8,8 +8,8 @@ For more information, see http://andreasviklund.com/templates/variant-winter/
 /* corps du texte */
 body
 {
-	background:#dadada url(images/body-bg.gif) top center repeat-y; /* dadada donne la couleur du fond : dégradé de gris
-									   body-gb est le fond blanc qui délimite le site */
+	background:#dadada url(images/body-bg.gif) top center repeat-y; /* dadada donne la couleur du fond : dÃ©gradÃ© de gris
+									   body-gb est le fond blanc qui dÃ©limite le site */
 	color:#555;
 	font: 84% Tahoma, Verdana, sans-serif;
 	font-size: small
@@ -32,7 +32,7 @@ a img
 	border:0;
 }
 
-/* les différents types de titres */
+/* les diffÃ©rents types de titres */
 h1
 {
 	font-size:2.4em;
@@ -86,7 +86,7 @@ h7
 	font-style:italic;
 }
 
-/* p=paragraphe  ul=liste non ordonnée*/
+/* p=paragraphe  ul=liste non ordonnÃ©e*/
 p,ul
 {
 	line-height:1.5em;
@@ -94,7 +94,7 @@ p,ul
 	text-align:justify;
 }
 
-/* li=éléments d'une liste */
+/* li=Ã©lÃ©ments d'une liste */
 li
 {
 	margin:10px;
@@ -120,8 +120,9 @@ hr{clear:both;height:1px;visibility:hidden;}
 #feature p{margin:0;padding:0; line-height:1.7em;}
 
 /*----------------------------------------------------------------------------------------------------------*/
-/* 					     Menu déroulant horizontal	  				    */
+/* 					     Menu dÃ©roulant horizontal	  				    */
 /*----------------------------------------------------------------------------------------------------------*/
+
 #navitab
 {
 	width:860px; /* longueur de l'espace horizontal pr le menu */ 
@@ -129,16 +130,16 @@ hr{clear:both;height:1px;visibility:hidden;}
 
 #navitab, #navitab ul
 {
-	margin : 0; /* pas de marge intérieure */
-	padding : 0; /* ni extérieure */
-	list-style : none; /* on supprime le style par défaut de la liste */
+	margin : 0; /* pas de marge intÃ©rieure */
+	padding : 0; /* ni extÃ©rieure */
+	list-style : none; /* on supprime le style par dÃ©faut de la liste */
 	text-align : center;
 	border-radius : 5px 5px 5px 5px;
 }
 
 #navitab li a /* Contenu des listes */
 {
-	display:block; /* on change le type d'élément, les liens deviennent des balises de type block */
+	display:block; /* on change le type d'Ã©lÃ©ment, les liens deviennent des balises de type block */
 	padding:5px 16px 7px;
 	background:url(images/corner.gif) no-repeat top right #eee;
 	color:#555;
@@ -158,22 +159,22 @@ hr{clear:both;height:1px;visibility:hidden;}
 	margin : 0;
 }
 
-#navitab li ul /* Sous-listes */ /* positionne les sous listes en dessous de chaque élément de la liste et cache les sous listes*/
+#navitab li ul /* Sous-listes */ /* positionne les sous listes en dessous de chaque Ã©lÃ©ment de la liste et cache les sous listes*/
 {
 	position: absolute; /* Position absolue */
 	width: 1px; /* Largeur des sous-listes */
 	left: -999em; /* Hop, on envoie loin du champ de vision */
 }
 
-#navitab li ul li /* Éléments de sous-listes */
+#navitab li ul li /* Ã‰lÃ©ments de sous-listes */
 {
-	border-top : 1px solid #fff; /* on met une bordure blanche en haut de chaque élément d'une sous liste */
+	border-top : 1px solid #fff; /* on met une bordure blanche en haut de chaque Ã©lÃ©ment d'une sous liste */
 }
 
 #navitab li:hover ul , #navitab a:hover /*, #navitab li.sfhover ul*/
 {
-	background:#dadada url(images/corner.gif) no-repeat top right; /* fond qui passe gris foncé au passage de la souris  */
-	left : auto; /* pour afficher le menu déroulant au passage de la souris */
+	background:#dadada url(images/corner.gif) no-repeat top right; /* fond qui passe gris foncÃ© au passage de la souris  */
+	left : auto; /* pour afficher le menu dÃ©roulant au passage de la souris */
 	color: #555; /* couleur texte */
 	/*text-decoration:underline;*/
 }
@@ -223,9 +224,9 @@ hr{clear:both;height:1px;visibility:hidden;}
 			left: -999em;*/}
 #sidebar ul.sidelink ul li a{margin:0 0 2px 10px;padding:2px 0 1px 5px;}
 
-#sidebar ul.sidelink li ul li /* Éléments de sous-listes */
+#sidebar ul.sidelink li ul li /* Ã‰lÃ©ments de sous-listes */
 {
-	border-top : 1px solid #fff; /* on met une bordure blanche en haut de chaque élément d'une sous liste */
+	border-top : 1px solid #fff; /* on met une bordure blanche en haut de chaque Ã©lÃ©ment d'une sous liste */
 }
 
 /*----------------------------------------------------------------------------------------------------*/

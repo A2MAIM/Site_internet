@@ -10,7 +10,6 @@
 	<title>Association A2MAIM : Conseil d'administration</title>
 	
 	<!-- <script type="text/javascript">
-
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-20314521-2']);
 		_gaq.push(['_trackPageview']);
@@ -20,11 +19,9 @@
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
-
 	</script> -->
 
 	<script type="text/javascript">
-
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-35382676-1']);
 		_gaq.push(['_trackPageview']);
